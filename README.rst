@@ -15,7 +15,7 @@ folder) Vim.
 Usage
 -----
 
-Download ``vim-launcher.exe``, rename it to ``gvim.exe`` and copy it right your ``$VIM`` folder. If
+Download `vim-launcher.exe`_, rename it to ``gvim.exe`` and copy it right your ``$VIM`` folder. If
 you want a the same thing for the classic CLI-based Vim (does anyone use that on Windows?!), do the
 same thing but name the file ``vim.exe``.
 
@@ -30,4 +30,5 @@ This program is free software. It comes without any warranty, to the extent perm
 law. You can redistribute it and/or modify it under the terms of the WTFPL, Version 2, as published
 by Sam Hocevar. See `LICENSE`_ and/or http://www.wtfpl.net for more details.
 
+.. _vim-launcher.exe: https://github.com/ThiefMaster/vim-launcher/releases/download/v1.0/vim-launcher.exe
 .. _LICENSE: https://github.com/ThiefMaster/vim-launcher/blob/master/LICENSE
